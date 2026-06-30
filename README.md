@@ -2,7 +2,7 @@
 
 ## cpawCTF スクリーンショット
 - Level2
-   - https://github.com/itc-n25007/ctf2026/blob/main/cpawCTF/cpawCTF-Level2.png
+   - (https://github.com/itc-n25007/ctf2026/blob/main/cpawCTF/cpawCTF-Level2.png)
 
 ## サーバ構築マニュアル
 
