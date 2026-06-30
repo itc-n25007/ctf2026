@@ -4,6 +4,8 @@
 - Level2
    - https://github.com/itc-n25007/ctf2026/blob/main/cpawCTF/cpawCTF-Level2.png
 
+   ![cpawCTF](cpawCTF/cpawCTF-Level2.png)
+
 ## サーバ構築マニュアル
 
 ### Webサーバ（Basic認証あり）
